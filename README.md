@@ -18,7 +18,7 @@ Change config base url on
 ```bash
 application/config/config.php
 
-```php
+
 $config['base_url'] = 'http://localhost/xlearn/ci-restapi/';
 ```
 
@@ -27,7 +27,6 @@ Change database config on
 ```bash
 application/config/database.php
 
-```php
 $db['default'] = array(
 	'dsn'	=> '',
 	'hostname' => 'localhost',
@@ -60,4 +59,4 @@ My alternate version https://github.com/ardisaurus/old-rest-ci
 ci-restapi
 
 ## License
-[chriskacerguis](https://github.com/chriskacerguis/) [ardisaurus](https://github.com/ardisaurus/)
+[chriskacerguis](https://github.com/chriskacerguis/) | [ardisaurus](https://github.com/ardisaurus/)
