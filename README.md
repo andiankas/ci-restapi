@@ -3,7 +3,7 @@
 
 # CodeIgniter RestAPI
 
-A fully RESTAPI implementation for CodeIgniter using one library, one config file and one controller.
+A RESTAPI implementation for CodeIgniter.
 
 ## Installation
 
