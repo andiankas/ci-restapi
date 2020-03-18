@@ -7,10 +7,10 @@ A fully RESTAPI implementation for CodeIgniter using one library, one config fil
 
 ## Installation
 
-Clone or download this repository
+Download Or clone this repository. 
 
 ```bash
-https://github.com/andiankas/ci-restapi.git
+git clone https://github.com/andiankas/ci-restapi.git
 ```
 
 ## Usage
